@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GurPreet SaiNi
-- 👀 I’m interested in programming and learning different languages.
-- 🌱 I’m currently enrolled in a Programming DEC course at College LaSalle.
-- 💞️ I’m looking forward to work as a web developer.
+- 👀 I’m interested in programming and open to learn new language based on project.
+- 🌱 I have completed a DEC - Programming course at College LaSalle. (also have Bachelor's in Computer Application)
+- 💞️ I’m looking forward to work as a web developer, Mobile app developer.
 - 📎  I have attached some of my projects that you can look at.
 - 📫 How to reach me: sainisaab202@gmail.com
 - 🛎️ www.linkedin.com/in/sainisaab202
