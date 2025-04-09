@@ -2,6 +2,7 @@
 - 💞️ I love working on tasks that require problem solving skills
 - 🌱 I have completed a DEC - Programming course at College LaSalle. (also have Bachelor's in Computer Application)
 - 👀 I’m interested in projects related to web developer, Mobile app developer and Data Engineering/Analysis
+- 💻 Find my CV @ https://sainisaab202.github.io/
 - 📎 Please have a look at my projects
 - 📫 How to reach me: sainisaab202@gmail.com
 - 🛎️ www.linkedin.com/in/sainisaab202
